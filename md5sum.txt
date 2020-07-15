@@ -1,0 +1,7 @@
+4d03cb6aad2b7f2a92a9daa428f401b4  ./casper/filesystem.manifest
+efa7e1e87d2aa01eb47955353f939226  ./casper/filesystem.size
+9646c4d18381f95efdc0661fe7926b3d  ./casper/filesystem.manifest-desktop
+3305dfc0dcd603c31ce22cf5fa669031  ./casper/initrd.img
+274be5be95bd46403814a5a3b8e70a66  ./casper/vmlinuz
+67fdc6b766f743d2d9d5e82647a7c77b  ./casper/filesystem.squashfs
+a78ca223448994189fe736ece4aba73c  ./boot/memtest86+.bin
